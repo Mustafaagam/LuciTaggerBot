@@ -48,7 +48,7 @@ zaman uyumsuz  def  yardım ( olay ):
                     buttons=(
                       [Button.url('Botu Gruba Ekle➕', 'https://t.me/lucitaggerbot?startgroup=a')],
                  
-                    link_preview=False
+                    link_preview    =    Yanlış
                    
 	
 	
